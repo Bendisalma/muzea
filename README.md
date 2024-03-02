@@ -6,21 +6,31 @@ Ce projet offre une expérience complète d'e-commerce d'œuvres d'art, de la ge
 ## Fonctionnalités de l'Interface d'Administration (Admin)
 ### Authentification Google : Les administrateurs peuvent s'authentifier rapidement via Google pour accéder à l'interface d'administration.
 
-### Tableau de Bord : Un tableau de bord complet affiche les commandes et les revenus pour la journée, la semaine et le mois.
+### Tableau de Bord : 
+
+Un tableau de bord complet affiche les commandes et les revenus pour la journée, la semaine et le mois.
 
 ### Gestion des Oeuvres :
 
-### Ajout d'œuvres avec spécification de la catégorie et des propriétés.
+Ajout d'œuvres avec spécification de la catégorie et des propriétés.
 
-### Modification ou suppression facile des œuvres existantes.
+Modification ou suppression facile des œuvres existantes.
 
-### Gestion des Catégories : Possibilité d'ajouter de nouvelles catégories et leurs propriétés associées.
+### Gestion des Catégories : 
 
-### Commandes : Vue détaillée des commandes avec informations sur la date, le statut de paiement, le client, l'adresse et les œuvres commandées.
+Possibilité d'ajouter de nouvelles catégories et leurs propriétés associées.
 
-### Administrateurs : Gestion des administrateurs autorisés à accéder à la plateforme d'administration.
+### Commandes : 
 
-### Configuration : Paramétrage du prix de livraison et des œuvres qui apparaîtront en tant qu'œuvres vedettes sur la page d'accueil.
+Vue détaillée des commandes avec informations sur la date, le statut de paiement, le client, l'adresse et les œuvres commandées.
+
+### Administrateurs : 
+
+Gestion des administrateurs autorisés à accéder à la plateforme d'administration.
+
+### Configuration : 
+
+Paramétrage du prix de livraison et des œuvres qui apparaîtront en tant qu'œuvres vedettes sur la page d'accueil.
 
 ## Fonctionnalités de la Plateforme de Magasin (Magasin)
 ### Présentation des Oeuvres : Affichage de l'œuvre vedette en premier, suivi des autres œuvres disponibles.
