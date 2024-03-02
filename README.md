@@ -4,7 +4,9 @@ Ce projet de fin d'études consiste en une plateforme e-commerce dédiée à la 
 Ce projet offre une expérience complète d'e-commerce d'œuvres d'art, de la gestion administrative à la navigation et l'achat pour les clients.
 
 ## Fonctionnalités de l'Interface d'Administration (Admin)
-### Authentification Google : Les administrateurs peuvent s'authentifier rapidement via Google pour accéder à l'interface d'administration.
+### Authentification Google : 
+
+Les administrateurs peuvent s'authentifier rapidement via Google pour accéder à l'interface d'administration.
 
 ### Tableau de Bord : 
 
